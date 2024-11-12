@@ -3,14 +3,6 @@
 
 This project simulates a simple physics-based cannonball bouncing within a 2D canvas. It demonstrates basic principles of motion and collision, including gravity and boundary interactions.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
-
 ## Overview
 
 The simulation launches a ball with an initial velocity at a certain angle, and it is subjected to gravitational acceleration. The ball bounces off the edges of the canvas with a reversal in velocity, giving a visual representation of elastic collision with boundaries.
